@@ -1,0 +1,19 @@
+{
+  "name": "wstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "6.1.2",
+    "sockjs-client": "1.5.2",
+    "stomp-client": "0.9.0",
+    "websocket": "1.0.34",
+    "ws": "8.3.0"
+  }
+}
